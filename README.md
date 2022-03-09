@@ -1,5 +1,5 @@
-(https://pbs.twimg.com/profile_banners/2729538100/1646803991/600x200)
-![I am a React Developer | JavaScript Developer]
+![I am a React Developer | JavaScript Developer](https://pbs.twimg.com/profile_banners/2729538100/1646803991/600x200)
+
 
 I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development and provide value to the organization I work.
 
