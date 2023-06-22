@@ -1,7 +1,7 @@
 ![I am a React Developer | JavaScript Developer](/assets/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Kamrul Haider Chowdhury</h1>
-<h3 align="center">I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development.</h3>
+<h1 align="left">Hi 👋, I'm Kamrul Haider Chowdhury</h1>
+<h3 align="left">I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhaider&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulhaider" /> </p>
 
