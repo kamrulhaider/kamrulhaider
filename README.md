@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamrulhaider&show_icons=true&locale=en" alt="kamrulhaider" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhaider&" alt="kamrulhaider" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31znrvs7dlubqtvvy6gkbtsstgvy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
