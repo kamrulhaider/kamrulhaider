@@ -1,32 +1,63 @@
-![I am a React Developer | JavaScript Developer](/assets/banner.jpg)
+<h4 align="left">"Hello, curious mind! 🤓"</h4>
 
-<h1 align="left">Hi 👋, I'm Kamrul Haider Chowdhury</h1>
-<h3 align="left">I am a passionate web developer who wants to learn more and more about web-based technology. I want to touch the highest peak of web development.</h3>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhaider&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulhaider" /> </p>
+<p align="left">So, I am just another guy named Kamrul Haider Chowdhury who hopped into the programmer's world after completing my MBA in management. Now I'm a full-stack developer and entrepreneur from Bangladesh, focused on creating robust, scalable web and app solutions. With several years of experience working on diverse projects, I’m constantly exploring new technologies and methodologies to push my limits and deliver top-notch results.</p>
 
-- 💬 Ask me about **javascript**
+###
 
-- 📫 How to reach me **kamrulhaider.dev@gmail.com**
+<div align="left">
+  <a href="https://www.facebook.com/kamrulhaider001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="34" height="24" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kamrulhaider/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+8801675654439" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="34" height="24" alt="whatsapp logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kamrulhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kamrulhaider" height="30" width="40" /></a>
-<a href="https://twitter.com/kamrulhaider001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamrulhaider001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kamrulhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrulhaider" height="30" width="40" /></a>
-<a href="https://fb.com/kamrulhaider001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrulhaider001" height="30" width="40" /></a>
-<a href="https://instagram.com/kamrulhaider_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamrulhaider_" height="30" width="40" /></a>
-<a href="https://medium.com/@kamrulhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamrulhaider" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamrulhaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamrulhaider" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="24" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="24" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="24" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="24" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="24" alt="svelte logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="24" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="24" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="24" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="24" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="24" alt="materialui logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="24" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="24" alt="css3 logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrulhaider&show_icons=true&locale=en&layout=compact" alt="kamrulhaider" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamrulhaider&show_icons=true&locale=en" alt="kamrulhaider" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamrulhaider&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="117" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kamrulhaider&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="117" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhaider&radius=5&theme=monokai&area=true&order=5&hide_border=true&hide_title=false" height="204" alt="activity-graph graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulhaider&" alt="kamrulhaider" /></p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31znrvs7dlubqtvvy6gkbtsstgvy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+###
