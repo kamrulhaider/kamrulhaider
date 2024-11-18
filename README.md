@@ -9,6 +9,11 @@
 <p align="left">Let's chat</p>
 
 <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrulhaider.kamrulhaider&left_color=grey&right_color=darkkhaki"  />
+</div>
+
+###
+<div align="left">
   <a href="https://www.facebook.com/kamrulhaider001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="34" height="24" alt="facebook logo"  />
   </a>
