@@ -8,10 +8,6 @@
 
 <p align="left">Let's chat</p>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrulhaider.kamrulhaider&left_color=grey&right_color=darkkhaki"  />
-</div>
-
 ###
 <div align="left">
   <a href="https://www.facebook.com/kamrulhaider001" target="_blank">
@@ -25,6 +21,9 @@
   </a>
 </div>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamrulhaider.kamrulhaider&left_color=grey&right_color=darkkhaki"  />
+</div>
 ###
 
 <div align="left">
